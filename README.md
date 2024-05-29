@@ -2,9 +2,9 @@
 A list of multi-vector resources to understand the use and tradeoffs of using multi vector representations in retrieval.
 
 # Table of Contents
-- [Papers](https://github.com/DeployQL/awesome-multi-vector#papers)
-- [Software](https://github.com/DeployQL/awesome-multi-vector#software)
-- [Tutorials](https://github.com/DeployQL/awesome-multi-vector#tutorials)
+- [Papers](#papers)
+- [Software](#software)
+- [Tutorials](#tutorials)
 
 # Papers
 
